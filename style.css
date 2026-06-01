@@ -1,0 +1,33 @@
+body{
+    background-color: aquamarine;
+    background-image: url("images/16264680_v933-audi-39.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+
+
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color: blueviolet;
+    text-shadow: 5px 5px 5px black;
+    font-size: 50px;
+}
+p{
+    font-size: 30 px;
+}
+
+button{
+    font-size: 20px;
+    padding: 20px 40px;
+    border: none;
+    background-color: hsla(271, 76%, 53%, 0.842);
+    color: white;
+    border-radius: 30px;
+    box-shadow: 0px 0px 50px blueviolet;
+    margin-top: 50px;
+}
+button:hover{
+    background-color: hsl(271, 76%, 53%);
+}
